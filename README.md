@@ -50,7 +50,4 @@ To assess model performance, we utilize the following metrics:
 - The **XGBoost classifier** outperformed other models, achieving an accuracy of **94%**.
 - The ANN model demonstrated competitive performance, with accuracy improving over epochs due to effective regularization and model checkpointing.
 
----
-
-## 📁 Project Structure
 
